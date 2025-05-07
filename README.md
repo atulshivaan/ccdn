@@ -1,4 +1,6 @@
 Dashboard Application
+
+
 Overview
 This is a Dashboard Application built with React, React Router, Vite, Tailwind CSS, and WebSocket for real-time communication. The app includes various features like user authentication, a protected route system, user management, and a dashboard with data visualization (using Recharts).
 
